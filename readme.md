@@ -1,10 +1,10 @@
 # Priya Patil
 
-### Geography
+### About
 
 I live in the town named as Navali from kolhapur, in the state of Maharashtra, in India.
 
-### Reading
+### Entertainment
 
 Three of my favorite movies are:
 
