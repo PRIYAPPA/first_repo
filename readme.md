@@ -1,25 +1,24 @@
-# Sean Kross
+# Priya Patil
 
-### Geography
+### About
 
-I live in the city of Baltimore, in the state of Maryland, in the United States
-of America.
+I live in the town named as Navali from kolhapur, in the state of Maharashtra, in India.
 
-### Reading
+### Entertainment
 
-Three of my favorite books are:
+Three of my favorite movies are:
 
-- *Mindstorms* by Seymour Papert
-- *Welcome to the Monkey House* by Kurt Vonnegut
-- *Persepolis* by Marjane Satrapi
+- *Drishyam* of Ajay Devgan
+- *3 Idiots* of Amir Khan
+- *Badla* of Tapsi Pannu
 
 ### Food
 
-Last night I dreamt about eating in these restaurants:
+Last night I dreamt about eating these foods:
 
-1. Linger in Denver.
-2. Azura in Jerusalem.
-3. Gemma in New York City.
+1. Chicken Biryani
+2. Panipuri
+3. Veg manchurian
 
 ### Contact
 
